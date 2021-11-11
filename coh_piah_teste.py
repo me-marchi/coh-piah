@@ -162,7 +162,6 @@ def calcula_assinatura(texto):
     return as_a
 
 
-
 def avalia_textos(textos, ass_cp):
     '''Essa funcao recebe uma lista de textos e uma
     assinatura ass_cp e deve devolver o numero (1 a n) do texto com
